@@ -62,38 +62,6 @@ Specialized software for creating and visualizing professional org charts.
 
 ---
 
-## 🛠️ Technologies
-
-<div align="center">
-
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-</div>
-
----
-
-## 📫 Contact Us
-
-<div align="center">
-
-|   Channel    |                          Link                           |
-| :----------: | :-----------------------------------------------------: |
-|  🌐 Website  |        [orgworks.cloud](https://orgworks.cloud/)        |
-|   📧 Email   | [contact@orgworks.cloud](mailto:contact@orgworks.cloud) |
-| 📷 Instagram |       [@orgworks](https://instagram.com/orgworks)       |
-|  🎬 YouTube  |       [@orgworks](https://youtube.com/@orgworks)        |
-
-</div>
-
----
-
 ## 🇧🇷 Made in Brazil
 
 <div align="center">
